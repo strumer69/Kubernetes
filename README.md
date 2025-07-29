@@ -43,6 +43,12 @@ Integrates with underlying cloud provider(s).
   * For collecting and storing container metrics.
 #### Cluster-level Logging
 * For saving container logs to a central log store.
+*  ---------------------------------------------------------------------
+*  next step --> try kubernets
+*  https://kubernetes.io/docs/home/
+*  helle MINIKUBE:
+*  https://kubernetes.io/docs/tutorials/hello-minikube/
+*  
 
 
 
